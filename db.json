@@ -1,12 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "isSelected": [
+    { "jn": 0},
+    { "kk": 0},
+    { "mn": 0},
+    { "jt": 0},
+    { "lb": 0},
+    { "ct": 0},
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "percentageComplete": [
+    { "jn": 0},
+    { "kk": 0},
+    { "mn": 0},
+    { "jt": 0},
+    { "lb": 0},
+    { "ct": 0},
   ],
   "profile": {
     "name": "typicode"
